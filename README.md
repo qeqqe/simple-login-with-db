@@ -5,7 +5,7 @@ A basic login and registration system built with **Express**, **express-session*
 - 🔐 **User Login** with session management using express-session.
 - 🎨 **EJS Templating** for simple, clean frontend views.
 - 💾 **MongoDB** for persistent storage of user credentials.
-## 🛠️ Getting Started ### **Prerequisites**: 
+## 🛠️ Getting Started **Prerequisites**: 
 - 🟢 **Node.js** installed on your system.
 - 🍃 **MongoDB** (either locally installed or using MongoDB Atlas).
 ### **Installation**:
